@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Secure E-commerce Store</title>
+    <title>Blade's Inventory</title>
     <style>
         /* Your CSS styles go here */
     </style>
 </head>
 <body>
     <header>
-        <h1>Your E-commerce Store</h1>
+        <h1>Blade's Inventory</h1>
     </header>
     <section id="products">
         <!-- Product listings go here -->
